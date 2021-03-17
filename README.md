@@ -26,4 +26,4 @@ The discriminator is a PatchGan and which outputs a 30x30 matrix, which is then 
 
 <img src="https://github.com/Therickysen08/pix2pix/blob/main/images/result.png" width="650" height="240"/>
 
-
+<img src="https://github.com/Therickysen08/pix2pix/blob/main/images/result2.png" width="650" height="240"/>
