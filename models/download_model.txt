@@ -1,0 +1,2 @@
+Download the already trained model from the given Gdrive link.
+Link: https://drive.google.com/drive/folders/1c2sk8h5WsOODygvDJoe1twYABaJO9AZK?usp=sharing
