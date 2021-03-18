@@ -11,7 +11,7 @@ The discriminator is a PatchGan and which outputs a 30x30 matrix, which is then 
 
 
 ### Dataset
-The dataset can be downloaded from Kaggle by using this [link](https://www.kaggle.com/alincijov/pix2pix-maps/version/1). After downloading the dataset extract it to the data/raw_data folder.
+The dataset can be downloaded from Kaggle by using this [link](https://www.kaggle.com/alincijov/pix2pix-maps/version/1). After downloading the dataset extract it to the data/dataset folder.
 
 ### Hyperparameters
     source_images = 1096
