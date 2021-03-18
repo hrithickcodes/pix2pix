@@ -1,4 +1,4 @@
-## Google Satelite Image to Streetview Image translation using Pix2Pix GAN
+## Google Satelite Image to Streetmap Image translation using Pix2Pix GAN
 
 The Pix2Pix GAN is a general approach for image-to-image translation. It is based on the conditional generative adversarial network, where a target image is generated, that is conditioned on a given input image. The idea of Pix2Pix GAN was proposed in this [paper](https://arxiv.org/abs/1611.07004). According to the paper, the model not only learn the mapping from source image to target image, but also learn a loss function to train this mapping. 
 
